@@ -5,7 +5,7 @@ export function Body() {
 
     return (
 
-        <body className=' flex grid grid-flow-col'>
+        <body >
             <div >
                 <h1 className=" py-16 flex text-center justify-center font-black text-5xl text-blue-900">
                     Vai comprar um veículo?
@@ -19,11 +19,7 @@ export function Body() {
                 <Buttonplaceh />
             </div>
 
-            <div className='flex justify-center'>
-                <div className="max-w-2xl right-4 ">
-                    < img src="https://images2.imgbox.com/2a/27/QsyDDeev_o.png" alt=" Foto carro placa buscar dados consultar dados pela placa" />
-                </div>
-            </div >
+            
         </body>
     )
 }
@@ -31,4 +27,8 @@ export function Body() {
 
 // className="px-10 max-w-3xl  right-4"
 
-
+//<div className='flex justify-center'>
+  //              <div className="max-w-2xl right-4 ">
+    //                < img src="https://images2.imgbox.com/2a/27/QsyDDeev_o.png" alt=" Foto carro placa buscar dados consultar dados pela placa" />
+      //          </div>
+        //    </div >
