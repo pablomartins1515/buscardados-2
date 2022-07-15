@@ -19,7 +19,7 @@ export function Body() {
                     <Buttonplaceh />
                 </div>
 
-                <span className="max-w-2xl ">
+                <span className="max-w-2xl">
                         < img src="https://uploaddeimagens.com.br/images/003/943/464/full/Foto_carro_15-07.png" alt=" Foto carro placa buscar dados consultar dados pela placa" />
                 </span>
             </main>
