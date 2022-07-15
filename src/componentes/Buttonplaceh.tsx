@@ -19,7 +19,7 @@ export function Buttonplaceh() {
             <form onSubmit={handleSubmit}>
                 <div>
                     <textarea
-                        className="min-w-[240px]  max-w-[380px] max-h-[64px] shadow px-3 py-2 text-lg placeholder-zinc-400 text-gray-800 bg-white rounded-md border border-gray-400 focus:ring-blue-900 focus:ring-1 focus:outline-none resize-none scrollbar scrollbar-thumb-gray-700 scroolbar-track-transparent scrollbar-thin"
+                        className="min-w-[240px]  max-w-[380px] max-h-[64px] shadow px-3 py-2 text-lg placeholder-zinc-400 text-gray-800 bg-white rounded-md border border-gray-400 focus:ring-blue-900 focus:ring-1 focus:outline-none resize-none scrollbar scrollbar-thumb-gray-700 scroolbar-track-transparent scrollbar-thin "
                         placeholder="Digite a Placa do veículo..."
                         onChange={event => setComment(event.target.value)}
                     />

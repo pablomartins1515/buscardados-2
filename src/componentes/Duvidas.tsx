@@ -2,7 +2,7 @@ export function Duvidas() {
     return (
         <div>
 
-            <div >
+            <div className="p-8">
                 <h1 className="m-2 p-2 flex justify-center font-black text-4xl">
                     Está com dúvidas?
                 </h1>
