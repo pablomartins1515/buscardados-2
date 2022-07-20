@@ -6,8 +6,7 @@ export function Router() {
     return (
         <Routes>
             <Route path="/" element={<Event />} />
-            <Route path="/politica" element={<Politica />} />
-            
+            <Route path="/politica/" element={<Politica />} />            
         </Routes>
     )
 }
