@@ -14,8 +14,7 @@ export function Event () {
             <Duvidas />
             <Faq /> 
             <BottomStyle />
-            <Rodape /> 
-                    
+            <Rodape />                     
         </div>    
     )        
 }
